@@ -137,7 +137,6 @@ On Overleaf:
 PhD Scholar  
 MedTech Centre  
 IIT Jodhpur & AIIMS Jodhpur
-
 **Website:**
 [https://gajendrasingh.netlify.app/](https://gajendrasingh.netlify.app/)
 

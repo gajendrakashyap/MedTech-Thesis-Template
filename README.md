@@ -134,8 +134,8 @@ On Overleaf:
 ## Author & Maintainer
 
 ### Gajendra Singh
-PhD Scholar
-MedTech Centre
+PhD Scholar  
+MedTech Centre  
 IIT Jodhpur & AIIMS Jodhpur
 
 **Website:**

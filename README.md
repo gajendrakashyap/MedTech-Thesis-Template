@@ -72,7 +72,7 @@ Open the project in your preferred LaTeX editor and compile it using **LuaLaTeX*
 ```text
 MedTech-Thesis-Template/
 │
-├── main.tex
+├── Thesis.tex
 │
 ├── preliminaryPages/
 │   ├── coverPage_Thesis.tex
@@ -89,10 +89,12 @@ MedTech-Thesis-Template/
 │   ├── chapter2.tex
 │   └── ...
 │
-├── figures/
+├── appendices/
+│   ├── AppendixA.tex
+│   ├── AppendixB.tex
 │   └── ...
 │
-├── references/
+├── figures/
 │   └── ...
 │
 └── README.md
